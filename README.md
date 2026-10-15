@@ -1,4 +1,4 @@
-# Project-1
+# Arpith-Rajeev
 A Trial Project For Learning Purpose.
 # 💫 About Me:
 I'm currently exploring Python programming and building my coding skills.<br>I'm looking to collaborate on Python projects, AI tools, and cool tech ideas.<br>I'm looking for help with mastering programming and becoming a better developer.<br>I'm currently learning Python, C programming, and Data Science fundamentals.<br>Ask me about Python, AI, technology, and my coding journey.<br>Fun fact: I love exploring technology, experimenting with new tools, and finding ways to make cool ideas a reality!
